@@ -1,5 +1,4 @@
-Plans and motions for a robot arm can be planned and carried out using ROS packages, both in simulation and in real life.These packages have been tested with Ubuntu 20 and ROS noetic.The Moveit plugin is used by the robot arm to apply kinematics.
-Dependencies
+
 run this instruction inside your workspace:
 
   rosdep install --from-paths src --ignore-src -r -y
